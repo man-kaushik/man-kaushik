@@ -14,7 +14,7 @@ Based in 🇮🇳 Hyderabad, India | 6+ Years of Experience in Enterprise Softwa
 
 ## 👨‍💼 About Me
 
-I'm a **Semi-Senior Software Developer** at **Globant** with nearly **6 years of experience** designing, developing, and maintaining enterprise software applications. I'm passionate about:
+I'm a **Semi-Senior Software Developer** with nearly **6 years of experience** designing, developing, and maintaining enterprise software applications. I'm passionate about:
 
 - 🏗️ Building **scalable backend solutions** using modern architecture patterns
 - 🤖 Creating **AI-powered workflows** with LangChain, CrewAI, and OpenAI APIs
@@ -117,6 +117,9 @@ I regularly share technical insights and learnings:
 - [Understanding CQRS Part I: The Theory](https://medium.com/globant/understanding-cqrs-part-i-the-theory-189d59b71530)
 - [Understanding CQRS Part II: Implementation Insights](https://medium.com/globant/understanding-cqrs-part-ii-implementation-insights-22a347e90a01)
 
+🌐 **AI application**
+- [Crew Suite](https://agents-suite.vercel.app/)
+  
 ---
 
 ## 🎯 Soft Skills
