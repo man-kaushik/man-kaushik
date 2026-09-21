@@ -6,7 +6,7 @@
 
 Based in 🇮🇳 Hyderabad, India | 6+ Years of Experience in Enterprise Software Development
 
-[LinkedIn](https://www.linkedin.com/in/imannusharma/) • [Email](mailto:ms4055028@gmail.com) • [Phone](tel:+919040379290)
+[LinkedIn](https://www.linkedin.com/in/imannusharma/) • [Email](mailto:ms4055028@gmail.com)
 
 </div>
 
@@ -22,7 +22,7 @@ I'm a **Semi-Senior Software Developer** at **Globant** with nearly **6 years of
 - 🔧 Optimizing performance and solving critical production issues
 - 👥 Collaborating with global teams to deliver high-impact solutions
 
-Currently working on **enterprise Employee Training Management Platform**, designing Azure Timer Functions, and architecting automation workflows that improve operational efficiency globally.
+Currently architecting and deploying enterprise-scale **Employee Training Management Platform**, leveraging Azure Timer Functions and intelligent automation workflows to streamline global operations and enhance training delivery.
 
 ---
 
@@ -65,59 +65,27 @@ Currently working on **enterprise Employee Training Management Platform**, desig
 
 ---
 
-## 💼 Professional Experience
-
-### **Semi-Senior Software Developer** | Globant
-**Feb 2025 – Present** | Hyderabad, India
-
-- Owned development and enhancement of **enterprise Employee Training Management Platform**
-- Designed and developed **Azure Timer Functions** for data synchronization across global systems
-- Implemented production-ready automation workflows with dynamic email templates
-- Architected backend solutions using **CQRS, MediatR, and Clean Architecture**
-- Optimized synchronization processes improving **data consistency** across multiple countries
-- Resolved critical production issues and maintained **code quality** standards
-- Conducted **30+ L1 technical interviews** for .NET developer positions
-- Mentored new developers through knowledge transfer sessions
-
-### **Analyst** | Deloitte
-**Sept 2022 – Jan 2025** | Hyderabad, India
-
-- Led development of **Gate Pass** application → **30% improvement** in logistics efficiency
-- Engineered full-stack solution using **C#, ASP.NET Web API, Angular, PostgreSQL, Power BI**
-- Developed **Digital Ambassador** platform → **25% growth** in adoption
-- Implemented space booking and 2D mapping features → **35% improvement** in space utilization
-- Collaborated with cross-functional teams in **Agile environments**
-
-### **System Engineer** | Infosys
-**Oct 2020 – Aug 2022** | Hyderabad, India
-
-- Developed enhancements for **SPOC-Microsoft platform** using **Selenium and Angular**
-- Improved commercial lending workflow efficiency by **15%**
-- Resolved UI issues and enhanced application usability
-
----
-
 ## 🚀 Key Projects
 
-### **Employee Training Management Platform** | Globant
+### **Employee Training Management Platform**
 Enterprise platform supporting employee onboarding, learning, and training operations
 - Background services for data synchronization
 - Automated workflows for training reminders and notifications
 - **Tech Stack:** C#, .NET 8, ASP.NET Core, Azure Functions, SQL Server, Clean Architecture
 
-### **Gate Pass** | Deloitte
+### **Gate Pass**
 Digital application for internal logistics and security
 - **Achievement:** 30% enhancement in logistics efficiency
 - **Tech Stack:** C#, ASP.NET Web API, Angular, PostgreSQL, Power BI
 
-### **Digital Ambassador** | Deloitte
+### **Digital Ambassador**
 Facility management and space booking platform
 - Seamless space booking and personalized recommendations
 - Intelligent navigation with Euclidean distance calculations
 - **Achievement:** 25% growth in user adoption, 35% improvement in space utilization
 - **Tech Stack:** C#, ASP.NET Web API, Angular, Database optimization
 
-### **TPCAP** | BDO Global
+### **TPCAP**  
 Azure-based data synchronization platform
 - Asynchronous processing for enterprise assessment data
 - Multilingual Excel and PDF report generation
@@ -146,8 +114,8 @@ C.V. Raman College of Engineering | 2016 – 2020
 I regularly share technical insights and learnings:
 
 📖 **Medium Articles:**
-- [Understanding CQRS Part I: The Theory](https://medium.com/@imannusharma)
-- [Understanding CQRS Part II: Implementation Insights](https://medium.com/@imannusharma)
+- [Understanding CQRS Part I: The Theory]([https://medium.com/@imannusharma](https://medium.com/globant/understanding-cqrs-part-i-the-theory-189d59b71530))
+- [Understanding CQRS Part II: Implementation Insights]([https://medium.com/@imannusharma](https://medium.com/globant/understanding-cqrs-part-ii-implementation-insights-22a347e90a01))
 
 ---
 
@@ -184,7 +152,6 @@ I regularly share technical insights and learnings:
 
 ```
 💼 Experience:        6+ Years in Software Development
-🏢 Current Role:      Semi-Senior Software Developer @ Globant
 📍 Location:          Hyderabad, India
 🎓 Education:         B.Tech in Computer Science
 🏆 Certifications:    6+ Professional Certifications
@@ -200,7 +167,6 @@ I'm always open to discussing software engineering, AI-powered automation, and i
 
 - **LinkedIn:** [imannusharma](https://www.linkedin.com/in/imannusharma/)
 - **Email:** [ms4055028@gmail.com](mailto:ms4055028@gmail.com)
-- **Phone:** [+91 9040379290](tel:+919040379290)
 
 ---
 
