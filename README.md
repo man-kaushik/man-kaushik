@@ -114,8 +114,8 @@ C.V. Raman College of Engineering | 2016 – 2020
 I regularly share technical insights and learnings:
 
 📖 **Medium Articles:**
-- [Understanding CQRS Part I: The Theory]([https://medium.com/@imannusharma](https://medium.com/globant/understanding-cqrs-part-i-the-theory-189d59b71530))
-- [Understanding CQRS Part II: Implementation Insights]([https://medium.com/@imannusharma](https://medium.com/globant/understanding-cqrs-part-ii-implementation-insights-22a347e90a01))
+- [Understanding CQRS Part I: The Theory](https://medium.com/globant/understanding-cqrs-part-i-the-theory-189d59b71530)
+- [Understanding CQRS Part II: Implementation Insights](https://medium.com/globant/understanding-cqrs-part-ii-implementation-insights-22a347e90a01)
 
 ---
 
