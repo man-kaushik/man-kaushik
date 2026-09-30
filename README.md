@@ -93,6 +93,21 @@ Azure-based data synchronization platform
 
 ---
 
+## 🏆 Hackathon Prototype
+
+### **SwasthyaSetu AI**
+Prototype developed for the Google Cloud Hack2skill challenge: **Build with AI: Code for Communities**
+- Focused on **Smart Health & Supply Chain Resilience** for Primary Health Centres across India
+- AI-driven dashboard to monitor medicine availability, detect stock-out risks, and highlight critical shortages
+- Emergency scenario simulation with visibility into facilities, staff shortages, and transfer recommendations
+- Designed for scalable public-health operations and better resource redistribution across districts
+- **Challenge:** [Code for Communities 2](https://hack2skill.com/event/codeforcommunities2/?utm_source=hack2skill&utm_medium=homepage&sectionid=6a7aeeae2d99adcfcc33847d)
+- **Prototype Website:** [SwasthyaSetu AI](https://swasthyasetu-ai-7b4e6.web.app/)
+- **Demo Video:** [Watch Demo](https://drive.google.com/file/d/1MM0d8A2R6yRRmihZhG4rMNeVN_wZyjDI/view?usp=sharing)
+- **Presentation:** [View Pitch Deck](https://drive.google.com/file/d/1jHL8HfhGWGr-2jIsK6bDglxcib8D3WlN/view?usp=sharing)
+
+---
+
 ## 📚 Education & Certifications
 
 ### **Education**
@@ -190,6 +205,6 @@ I'm always open to discussing software engineering, AI-powered automation, and i
 
 ---
 
-**Last Updated:** September 2025
+**Last Updated:** September 2026
 
 </div>
